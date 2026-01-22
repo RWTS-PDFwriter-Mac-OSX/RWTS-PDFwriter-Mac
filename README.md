@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/rodyager/RWTS-PDFwriter/master/build/PDFwriter.iconset/icon_256x256.png" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/rwts-pdfwriter">
+<a href="https://ysids-apps-hub.github.io/.github/rwts-pdfwriter">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
